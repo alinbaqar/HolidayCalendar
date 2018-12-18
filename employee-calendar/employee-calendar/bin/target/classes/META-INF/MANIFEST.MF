@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: alibaqar
+Build-Jdk: 11.0.1
+Implementation-Title: employee-calendar
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.company.calendar
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/employee-calendar
+Created-By: Maven Integration for Eclipse
+
